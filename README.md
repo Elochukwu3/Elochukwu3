@@ -17,8 +17,9 @@ A Creative Front-End Developer with some years of experience, building websites 
 ![](https://img.shields.io/badge/Tools-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
-## &#x1f4c8; GitHub Stats Overview
+
 [![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elochukwu3&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elochukwu3&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
