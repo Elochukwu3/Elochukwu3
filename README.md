@@ -19,7 +19,7 @@ A Creative Front-End Developer with some years of experience, building websites 
 
 
 [![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/Elochukwu3/Elochukwu3)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elochukwu3&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elochukwu3&show_icons=true&theme=radical)](https://github.com/Elochukwu3/Elochukwu3)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elochukwu3&layout=compact&show_icons=true&theme=radical)](https://github.com/Elochukwu3/Elochukwu3)
 
 
