@@ -4,7 +4,7 @@
 
 ### I am ✨ROMAULD✨,
 
-A Creative Front-End Developer with some years of experience, building websites and web apps, collaborative environments. You can also find me on 
+A  Front-End Developer with some years of experience, building websites and web apps, collaborative environments. You can also find me on 
 <a href="https://www.linkedin.com/in/romauld-elochukwu-622693238/" rel="nofollow noreferrer">
   <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
 </a>, +234813251639. [Home](https://romauld.vercel.app/ "portfolio")
@@ -18,7 +18,7 @@ A Creative Front-End Developer with some years of experience, building websites 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 
 
-[![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/2077/0-profile-details.svg)](https://github.com/Elochukwu3)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elochukwu3&show_icons=true&theme=radical)](https://github.com/Elochukwu3)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elochukwu3&layout=compact&show_icons=true&theme=radical)](https://github.com/Elochukwu3)
 
