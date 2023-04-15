@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Elochukwu3/Elochukwu3/master/profile-summary-card-output/midnight_purple/4-productive-time.svg)
-```
-
-    
