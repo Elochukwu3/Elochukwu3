@@ -1,23 +1,28 @@
+# Romauld Elochukwu
+
+**Full-Stack Engineer** — Node.js · React · AI Integrations
+
+Background in Computer Science. Building scalable APIs, intelligent backend systems, and clean frontend interfaces.
+Currently building [Finverta AI](https://github.com/Elochukwu3) .
 
 
-# Hi there, <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="60px"> thanks for stopping by
+---
 
-### I am ✨ROMAULD✨,
+![Node.js](https://img.shields.io/badge/Node.js-informational?style=flat&logo=nodedotjs&logoColor=white&color=111111)
+![Express](https://img.shields.io/badge/Express-informational?style=flat&logo=express&logoColor=white&color=111111)
+![React](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=111111)
+![TypeScript](https://img.shields.io/badge/TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=111111)
+![MongoDB](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=111111)
+![MySQL](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=111111)
+![AWS](https://img.shields.io/badge/AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=111111)
+![C#](https://img.shields.io/badge/C%23-informational?style=flat&logo=csharp&logoColor=white&color=111111)
 
-A  Front-End Developer with some years of experience, building websites and web apps, collaborative environments. You can also find me on 
+---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=elochukwu3&theme=dark&hide_border=true)](https://github.com/Elochukwu3)
 
-![](https://img.shields.io/badge/code-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/tools-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-SASS/SCSS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Tailwind-informational?style=flat&logo=tailwind&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elochukwu3&theme=github_dark)
 
+---
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=elochukwu3&show_icons=true&theme=radical)](https://github.com/Elochukwu3)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Elochukwu3&layout=compact&show_icons=true&theme=radical)](https://github.com/Elochukwu3)
-
-
+[Portfolio](https://www.romauldelochukwu.site) · [LinkedIn](https://linkedin.com/in/romuald-elochukwu) · [Email](mailto:oguajuromauld5@gmail.com)
